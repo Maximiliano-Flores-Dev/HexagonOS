@@ -31,7 +31,7 @@ Cualquier aporte es bienvenido: ideas, reportes o código.
 Abre un **issue** o un **pull request** ✨.
 ---
 
-## Nuestra Wiki: [FAQ.md](FAQ.md)
+## Nuestra Wiki: [Wiki.md](Home.md)
 
 ---
 
