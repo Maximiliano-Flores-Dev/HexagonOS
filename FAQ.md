@@ -25,7 +25,7 @@ Puedes colaborar de varias formas:
 - Reportando ideas o sugerencias en **Issues**.
 - Proponiendo mejoras vía **Pull Requests**.
 - Ayudando a escribir documentación.  
-Consulta la página [Cómo contribuir](Contribuir.md) para más detalles.
+Consulta la página [Cómo contribuir](CONTRIBUTING.md) para más detalles.
 
 ---
 
@@ -42,7 +42,7 @@ El proyecto fue iniciado por **Maximiliano Flores (Maximiliano-Flores-Dev™)** 
 ## 7. ¿Cómo me entero de las novedades?
 Las actualizaciones importantes se publicarán en:
 - El **README.md** del repositorio.
-- La página [Roadmap](Roadmap.md).
+- La página [Roadmap](ROADMAP.md).
 - Futuras publicaciones en la Wiki.
 
 ---
