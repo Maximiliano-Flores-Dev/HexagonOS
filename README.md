@@ -29,7 +29,10 @@ Inspirado en la simplicidad de Arch y el poder de Hyprland.
 ## 🤝 Contribuir
 Cualquier aporte es bienvenido: ideas, reportes o código.  
 Abre un **issue** o un **pull request** ✨.
+---
 
+## Nuestra Wiki
+[FAQ.md](../blob/main/FAQ.md)
 ---
 
 ## 📜 Licencia
