@@ -29,9 +29,11 @@ Inspirado en la simplicidad de Arch y el poder de Hyprland.
 ## 🤝 Contribuir
 Cualquier aporte es bienvenido: ideas, reportes o código.  
 Abre un **issue** o un **pull request** ✨.
+
 ---
 
-## Nuestra Wiki: [Wiki.md](Home.md)
+## 📚 Nuestra Wiki
+👉 [Ir a la Wiki](https://github.com/Maximiliano-Flores-Dev/HexagonOS/wiki)
 
 ---
 
@@ -40,5 +42,5 @@ Este proyecto está bajo la licencia **GPL-3.0** para respetar la filosofía Lin
 
 ---
 
-👤 Autor: Maximiliano Flores C.
+👤 Autor: Maximiliano Flores C.  
 📧 Contacto: maximilianoflorescaceres2@gmail.com
