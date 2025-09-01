@@ -1,0 +1,35 @@
+# --- Compilación (C, C++) ---
+*.o
+*.ko
+*.obj
+*.elf
+*.mod
+*.mod.c
+*.cmd
+
+# --- Archivos de construcción ---
+build/
+out/
+dist/
+
+# --- Logs y temporales ---
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+
+# --- Imágenes de disco ---
+*.iso
+*.img
+*.bin
+
+# --- Archivos de sistema ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- IDEs y editores ---
+.vscode/
+.idea/
